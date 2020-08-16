@@ -1,9 +1,10 @@
 import random
 from words import word_list
 
-
+#chooses a word from the word list I imported from the other .py file
 def get_word():
     word = random.choice(word_list)
+    #forces the word to be uppercase
     return word.upper()
 
 
