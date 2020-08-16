@@ -1,4 +1,5 @@
 import random
+#from words.py, importing the variable word_list and all it contains
 from words import word_list
 
 #chooses a word from the word list I imported from the other .py file
