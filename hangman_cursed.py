@@ -68,7 +68,7 @@ def display_hangman(tries):
     stages = ["""
     
                 ----------     ______________             
-                |/       |     | GAYME OVER |            
+                |/      ^| ^   | GAYME OVER |            
                 |     _( UwU)  |____________|^ ^
                 |     |  |  |          |____(OwO )
                 | \\o/ ___|___ \\o/ \\o/\\o/      |\\ o \\o/ \\o/
@@ -80,7 +80,7 @@ def display_hangman(tries):
                 """
     
                 ----------                   
-                |/       |                  
+                |/      ^| ^                 
                 |     _( OwO)                ^ ^
                 |     |  |  |               (OwO )
                 |   o ___|                   /|\\ o    o
@@ -92,7 +92,7 @@ def display_hangman(tries):
                 """
     
                 ----------                   
-                |/       |                  
+                |/      ^| ^                 
                 |     _( OwO)                ^ ^
                 |     |  |  |               (OwO )
                 |        |                   /|\\ 
@@ -104,7 +104,7 @@ def display_hangman(tries):
                 """
     
                 ----------                   
-                |/       |                  
+                |/      ^| ^                
                 |     _( OwO)                ^ ^ 
                 |     |  |                  (OwO )
                 |        |                   /|\\
@@ -116,7 +116,7 @@ def display_hangman(tries):
                 """
     
                 ----------                   
-                |/       |                  
+                |/      ^| ^                
                 |      ( OwO)                ^ ^
                 |        |                  (OwO )
                 |        |                   /|\\
@@ -128,7 +128,7 @@ def display_hangman(tries):
                 """
     
                 ----------                   
-                |/       |                  
+                |/      ^| ^                  
                 |      ( OwO)                ^ ^
                 |                           (OwO )
                 |                            /|\\ 
